@@ -1,4 +1,4 @@
-package lec1.lec1.patterns;
+package ApnaCollege.lec1.patterns;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package lec1.lec1.functions;
+package ApnaCollege.lec1.functions;
 
 import java.util.Scanner;
 

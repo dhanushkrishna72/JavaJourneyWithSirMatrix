@@ -1,4 +1,4 @@
-package lec1.lec1;
+package ApnaCollege.lec1;
 
 import java.util.*;
 class Main{
